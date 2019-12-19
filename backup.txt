@@ -1,0 +1,15 @@
+{
+            "EUI": "asdii3rfim239-r=",
+            "data": "018200f1019aa"
+    }
+{
+            "EUI": "asdii3rfim239-r=",
+            "data": "018200f1019aa"
+    }
+{
+            "EUI": "asdii3rfim239-r=",
+            "data": "018200f1019a"
+    }{
+            "EUI": "asdii3rfim239-r=",
+            "data": "018200f1019a"
+    }
